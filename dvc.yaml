@@ -1,0 +1,7 @@
+stages:
+  train_model:
+    cmd: python3 src/train.py
+    deps:
+    - data/dataset.txt
+    outs:
+    - models/model.txt
