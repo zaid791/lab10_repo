@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://shaikhm@ssh.mini.pw.edu.pl:/home/samba/shaikhm/dvc_project
+    user = shaikhm
