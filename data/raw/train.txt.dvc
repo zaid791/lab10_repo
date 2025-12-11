@@ -1,0 +1,5 @@
+outs:
+- md5: bed2ac5efaba9f761d23f65a8b3e5b84
+  size: 19
+  hash: md5
+  path: train.txt
